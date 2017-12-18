@@ -7,8 +7,8 @@
 	},
 	{
 		"remote":"github",
-		"repository":"teamwin/android_kernel_samsung_universal8895_greatlte",
+		"repository":"zeroblade1984/android_kernel_samsung_universal8895",
 		"target_path":"kernel/samsung/universal8895_greatlte",
-		"revision":"master"
+		"revision":"android-7.1"
 	}
 ]
